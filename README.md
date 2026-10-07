@@ -31,6 +31,8 @@ En aquest repositori he practicat el funcionament de Git i GitHub, treballant am
 ### Fitxa tècnica d'Ubuntu Server
 He creat una fitxa tècnica sobre la instal·lació d'Ubuntu Server amb VirtualBox, amb els passos del procés, comprovacions, incidències i recursos.
 
+![Ubuntu Server a VirtualBox](imatges/ubuntu-server.png)
+
 🔗 [Veure fitxa tècnica](https://github.com/janorueda/primer_repositori/blob/main/fitxa-tecnica.md)
 
 ## 🎯 Interessos i objectius
