@@ -31,11 +31,13 @@ En aquest repositori he practicat el funcionament de Git i GitHub, treballant am
 ### Fitxa tècnica d'Ubuntu Server
 He creat una fitxa tècnica sobre la instal·lació d'Ubuntu Server amb VirtualBox, amb els passos del procés, comprovacions, incidències i recursos.
 
+🔗 [Veure fitxa tècnica](https://github.com/janorueda/primer_repositori/blob/main/fitxa-tecnica.md)
+
 ## 🎯 Interessos i objectius
 
 M'interessa continuar millorant en sistemes, xarxes i programació, i anar agafant més experiència amb eines que es fan servir en entorns professionals.
 
-El meu objectiu és continuar aprenent durant el cicle i anar ampliant aquest perfil amb nous projectes i pràctiques.git diff
+El meu objectiu és continuar aprenent durant el cicle i anar ampliant aquest perfil amb nous projectes i pràctiques.
 
 ## 🛠️ Eines que utilitzo
 
